@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Soccer\n"
+"POT-Creation-Date: 2023-10-18 00:29-0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: routes.php:168
+msgid "Password reset"
+msgstr "Passwort zurücksetzen"
+
+#: templates/email/password_reset.php:440
+msgid ""
+"Use this link to reset your password. The link is only valid for 24 hours."
+msgstr ""
+"Verwenden Sie diesen Link, um Ihr Passwort zurückzusetzen. Der Link ist "
+"nur für 24 Stunden gültig."
+
+#: templates/email/password_reset.php:460
+msgid "Hi [[username]]"
+msgstr "Hallo [[username]]"
+
+#: templates/email/password_reset.php:461
+msgid ""
+"You recently requested a password reset for your account. Use the button "
+"below to reset it."
+msgstr ""
+"Sie haben kürzlich ein neues Passwort für Ihr Konto beantragt. Verwenden "
+"Sie die Schaltfläche unten, um es zurückzusetzen."
+
+#: templates/email/password_reset.php:471
+msgid "Reset your password"
+msgstr "Setze dein Passwort zurück"
+
+#: templates/email/password_reset.php:478
+msgid "Thank you,"
+msgstr "Danke schön,"
+
+#: templates/email/password_reset.php:484
+msgid ""
+"If you have difficulty with the button above, copy and paste the URL below "
+"into your web browser."
+msgstr ""
+"Wenn Sie Probleme mit der Schaltfläche oben haben, kopieren Sie die URL "
+"unten und fügen Sie sie in Ihren Webbrowser ein."
